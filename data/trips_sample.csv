@@ -1,0 +1,6 @@
+trip_id,start_time,end_time,bike_id,trip_duration_minutes,from_station_name,to_station_name,member_type
+1,2021-01-01 08:12,2021-01-01 08:25,B1001,13,Station A,Station D,Subscriber
+2,2021-01-01 09:05,2021-01-01 09:29,B1002,24,Station B,Station C,Customer
+3,2021-01-02 18:45,2021-01-02 19:00,B1003,15,Station A,Station B,Subscriber
+4,2021-01-03 07:10,2021-01-03 07:35,B1004,25,Station C,Station A,Customer
+5,2021-01-03 12:00,2021-01-03 12:20,B1005,20,Station D,Station B,Subscriber

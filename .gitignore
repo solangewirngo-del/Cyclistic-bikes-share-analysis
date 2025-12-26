@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp and backups
+~$*
+*.tmp
+*.bak
+
+# IDEs
+.vscode/
+.idea/
